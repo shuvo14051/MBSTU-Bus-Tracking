@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "658859204947",
+    "firebase_url": "https://mbstubus.firebaseio.com",
+    "project_id": "mbstubus",
+    "storage_bucket": "mbstubus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658859204947:android:e5c9d266e836e735",
+        "android_client_info": {
+          "package_name": "com.example.mbstu_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658859204947-hq8i45palf1q4rav0gpf28pe984092j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mbstu_bus",
+            "certificate_hash": "e6ae53230cab04c16feef50b6916d70d933c58f9"
+          }
+        },
+        {
+          "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMY2UGocZ-iGnB0iqDYoKzcHtrhUa0Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658859204947:android:03ea5eb74bcea274",
+        "android_client_info": {
+          "package_name": "com.project.mbstu_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMY2UGocZ-iGnB0iqDYoKzcHtrhUa0Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658859204947:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDMY2UGocZ-iGnB0iqDYoKzcHtrhUa0Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658859204947-eb9ghjtossm5rctv3ovu95rjjvuhpifu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
